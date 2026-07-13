@@ -8,7 +8,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Islamabad,_Pakistan-0d1117?style=for-the-badge&labelColor=0d1117&color=c8952a) ![Availability](https://img.shields.io/badge/🟢_Open_to_Remote_Opportunities-0d1117?style=for-the-badge&labelColor=0d1117&color=2ea043)
+![Location](https://img.shields.io/badge/📍_Islamabad,_Pakistan-0d1117?style=for-the-badge&labelColor=0d1117&color=c8952a) ![Availability](https://img.shields.io/badge/🟢_Open to Part-Time & Freelance Opportunities-0d1117?style=for-the-badge&labelColor=0d1117&color=2ea043)
 
 <br/>
 
