@@ -1,40 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:c8952a&height=220&section=header&text=Naqeeb%20Ullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dynamics%20365%20%26%20Power%20Platform%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f29,100:c8952a&height=200&section=header&text=NAQEEB%20ULLAH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dynamics%20365%20%7C%20Power%20Platform%20%7C%20CRM%20Solutions%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8952A&center=true&vCenter=true&width=650&lines=CRM+Associate+Developer+%40+Sky+Soft+Connections;Dynamics+365+%7C+Power+Platform+%7C+C%23+%2F+.NET;Turning+Business+Requirements+Into+CRM+Solutions" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8952A&center=true&vCenter=true&width=650&lines=CRM+Associate+Developer+%40+Sky+Soft+Connections;Dynamics+365+%7C+Power+Platform+%7C+C%23+%2F+.NET;Building+Reliable%2C+Scalable+CRM+Solutions" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naqeeb74&label=Profile%20Views&color=c8952a&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naqeeb-ullah-264947269/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naqeebmsd108@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=naqeeb74&label=Profile%20Views&color=c8952a&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naqeeb-ullah-264947269/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naqeebmsd108@gmail.com)
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ## 🎯 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devssier/devssier/main/dev.gif" />
+</div>
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 🔭 Currently building **client-facing Dynamics 365 CRM & Power Platform solutions** at **Sky Soft Connections**
 - 🌱 Currently learning **Power Pages, Power BI, SSRS/SSIS, Customer Insights - Journeys & D365 Copilot AI Agent**
-- 💼 **1+ years** of hands-on experience in Dynamics 365 CRM development & customization
-- 🏆 Delivered CRM solutions across **cross-tenant integrations, marketing automation & real-time reporting**
+- 💼 Hands-on experience in **Dynamics 365 CRM development, customization & cross-tenant integration**
+- 🏆 Delivered CRM solutions spanning **plugin development, marketing automation & real-time reporting**
 - 💡 Specialized in **Plugin Development (C#), Custom APIs, Power Apps & Power Automate**
 - 💬 Ask me about **Dynamics 365, Power Platform, C#, Custom APIs, Power Automate & CRM Integrations**
 - 🎓 BS Computer Science — Gomal University, D.I. Khan (CGPA 3.9/4.0)
 - 📍 Based in **Islamabad, Pakistan** — open to remote work
-- ⚡ Fun fact: I enjoy turning messy business processes into clean, automated CRM workflows
+- ⚡ I enjoy turning messy business processes into clean, automated CRM workflows
 
-<br clear="right"/>
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Expertise
-
 <div align="center">
+
+## 🛠️ Technical Expertise
 
 **Microsoft Dynamics 365 & Power Platform**
 
@@ -56,7 +71,11 @@
 
 ---
 
+<div align="center">
+
 ## 💼 Professional Services
+
+</div>
 
 | Service | What I Deliver |
 |---|---|
@@ -70,7 +89,11 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -101,11 +124,15 @@ CRM-to-database synchronization with SSIS integration and Dynamics 365 Marketing
 </tr>
 </table>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="100%"/>
+</div>
+
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=naqeeb74&show_icons=true&theme=dark&bg_color=0d1117&title_color=c8952a&text_color=ffffff&icon_color=c8952a&border_color=c8952a&border_radius=10" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqeeb74&layout=compact&theme=dark&bg_color=0d1117&title_color=c8952a&text_color=ffffff&border_color=c8952a&border_radius=10" />
@@ -118,7 +145,11 @@ CRM-to-database synchronization with SSIS integration and Dynamics 365 Marketing
 
 ---
 
+<div align="center">
+
 ## 🎓 Certifications
+
+</div>
 
 - 📜 Power Platform Fundamentals (PL-900)
 - 📜 Create and manage canvas apps with Power Apps
@@ -127,19 +158,15 @@ CRM-to-database synchronization with SSIS integration and Dynamics 365 Marketing
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
+
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naqeeb-ullah-264947269/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naqeeb74)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naqeebmsd108@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 *⚡ "Turning complex business processes into clean, automated CRM solutions." ⚡*
 
