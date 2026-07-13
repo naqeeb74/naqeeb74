@@ -1,10 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,35:14213d,70:8a6a1f,100:c8952a&height=210&section=header&text=NAQEEB%20ULLAH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Dynamics%20365%20%7C%20Power%20Platform%20%7C%20CRM%20Solutions%20Developer&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="55%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8952A&center=true&vCenter=true&width=650&lines=CRM+Associate+Developer+%40+Sky+Soft+Connections;Dynamics+365+%7C+Power+Platform+%7C+C%23+%2F+.NET;Building+Reliable%2C+Scalable+CRM+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C8952A&center=true&vCenter=true&width=750&lines=CRM+Associate+Developer+%40+Sky+Soft+Connections;Dynamics+365+%7C+Power+Platform+%7C+C%23+%2F+.NET;Building+Reliable%2C+Scalable+CRM+Solutions" />
 
 <br/>
 
